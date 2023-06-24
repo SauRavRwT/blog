@@ -1,0 +1,40 @@
+# Site settings
+title:          Saurav Rawat
+description:    "Homepage"
+url:            "https://sauravrwt.github.io/"
+
+# Google Analytics
+google_analytics: UA-105252522-2 # out your google-analytics code
+
+# Author
+author:
+  name:         Saurav Rawat
+  url:          https://sauravrwt.github.io/
+  email:        example@gmail.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: https-sauravrwt-github-io
