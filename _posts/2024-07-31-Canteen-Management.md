@@ -31,4 +31,4 @@ This Canteen Management System is a web-based application designed to streamline
 - Bootstrap 5
 - React Bootstrap
 
-For more visit my repo:  [Canteen Management](https://github.com/SauRavRwT/Canteen-Management)
+For more visit my repo:  [`Canteen Management`](https://github.com/SauRavRwT/Canteen-Management)
