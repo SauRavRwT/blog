@@ -10,7 +10,7 @@ google_analytics: UA-105252522-2 # out your google-analytics code
 author:
   name:         Saurav Rawat
   url:          https://sauravrwt.github.io/
-  email:        example@gmail.com
+  email:        souravrawat142@gmail.com
 
 # Build settings
 markdown:       kramdown
