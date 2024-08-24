@@ -5,7 +5,6 @@ author: "balbheji"
 comments: false
 ---
 
-
 ## Information
 
 This Canteen Management System is a web-based application designed to streamline the process of ordering food items in a canteen or cafeteria setting. Built with React and Firebase, it offers a user-friendly interface for browsing products, adding items to a cart, and completing purchases.
@@ -31,4 +30,4 @@ This Canteen Management System is a web-based application designed to streamline
 - Bootstrap 5
 - React Bootstrap
 
-For more visit my repo:  [`Canteen Management`](https://github.com/SauRavRwT/Canteen-Management)
+For more visit my repo: [`Canteen Management`](https://github.com/SauRavRwT/Canteen-Management)

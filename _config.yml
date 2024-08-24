@@ -1,26 +1,26 @@
 # Site settings
-title:          Saurav's blogs
-description:    "Homepage"
-url:            "https://sauravrwt.github.io/"
+title: Saurav's blogs
+description: "Homepage"
+url: "https://sauravrwt.github.io/"
 
 # Google Analytics
 google_analytics: UA-105252522-2
 
 # Author
 author:
-  name:         Saurav's blogs
-  url:          https://sauravrwt.github.io/
-  email:        souravrawat142@gmail.com
+  name: Saurav's blogs
+  url: https://sauravrwt.github.io/
+  email: souravrawat142@gmail.com
 
 # Build settings
-markdown:       kramdown
+markdown: kramdown
 include:
   - _pages
 
 # Assets
 sass:
-  sass_dir:     _sass
-  style:        compressed
+  sass_dir: _sass
+  style: compressed
 
 # Gems
 plugins:
@@ -30,11 +30,11 @@ plugins:
   - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
+permalink: /:year-:month-:day/:title
+paginate: 5
 
 # Disqus Comments
 disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: https-sauravrwt-github-io
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: https-sauravrwt-github-io

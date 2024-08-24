@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "E-Commerce"
+title: "E-Commerce"
 author: "SR"
 comments: false
 ---
@@ -11,7 +11,6 @@ comments: false
 languages used HTML,CSS,JAVASCRIPT and in backend FIREBASE
 </p>
   </samp>
-
 
 <Summary><h2 align="center">• Screenshots</h2></summary>
 <samp>

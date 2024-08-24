@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Major Project"
+title: "Major Project"
 author: "SR"
 comments: false
 ---
@@ -18,10 +18,10 @@ use more features that are provided by us.This project like a portfolio in which
   <samp>
   <p align="center">
 
-  1. A movie app using themoviedb api.
-  2. A wallpaper app by using pexels api.
-  3. A Weather app that shows accurate weather of your location.
-  4. A simple Music Player with the help of Html , CSS & Javascript.This is a beta Project Still not completed yet stay tune with us for more exiting features.
+1. A movie app using themoviedb api.
+2. A wallpaper app by using pexels api.
+3. A Weather app that shows accurate weather of your location.
+4. A simple Music Player with the help of Html , CSS & Javascript.This is a beta Project Still not completed yet stay tune with us for more exiting features.
 
   </p>
   </samp>
