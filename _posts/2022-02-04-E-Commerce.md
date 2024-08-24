@@ -2,7 +2,7 @@
 layout: post
 title:  "E-Commerce"
 author: "SR"
-comments: true
+comments: false
 ---
 
 <summary><h2 align='center'>• E-Commerce Website</h2><br></summary>

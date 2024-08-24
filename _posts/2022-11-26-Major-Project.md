@@ -2,7 +2,7 @@
 layout: post
 title:  "Major Project"
 author: "SR"
-comments: true
+comments: false
 ---
 
 <h4 align='center'></samp>• Major Project</h4><br>

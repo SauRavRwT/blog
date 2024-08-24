@@ -2,8 +2,9 @@
 layout: post
 title:  "Device Tree for POCO X4 Pro 5G"
 author: "SR"
-comments: true
+comments: false
 ---
+
 # Project-Xtended
 Released my first build. let clear some basics.
 

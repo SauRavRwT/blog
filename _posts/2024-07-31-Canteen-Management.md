@@ -2,7 +2,7 @@
 layout: post
 title: "Canteen Management"
 author: "balbheji"
-comments: true
+comments: false
 ---
 
 

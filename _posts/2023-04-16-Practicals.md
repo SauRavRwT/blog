@@ -2,7 +2,7 @@
 layout: post
 title: "Practicals"
 author: "SR"
-comments: true
+comments: false
 ---
 
 # Computational Methods

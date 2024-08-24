@@ -2,7 +2,7 @@
 layout: post
 title: "Thought of the day"
 author: "balbheji"
-comments: true
+comments: false
 ---
 
 ## Ek khubsurat khayal dekhiye.....

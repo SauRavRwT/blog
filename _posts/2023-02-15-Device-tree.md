@@ -2,7 +2,7 @@
 layout: post
 title: "Device Tree"
 author: "SR"
-comments: true
+comments: false
 ---
 
 # About the Android Open Source Project
