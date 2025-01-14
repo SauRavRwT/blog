@@ -9,8 +9,18 @@ permalink: /about/
 
 > **"Turning creativity into code, imagination into reality, and complexity into simplicity, one line at a time." - balbheji**
 
-### Hi there 👋 , I'm [Saurav Rawat](http://sauravrwt.github.io/)
+<div align="center">
+    <img src="../assets/logo.svg" alt="Profile Picture" width="200" style="border-radius: 50%;" />
+</div>
 
-**_I'm Web Developer and UI/UX Designer from Delhi, India working in web development. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way._**
+### Hi there 👋, I'm [balbheji](https://balbheji.github.io)
 
-**Saurav Rawat** (Web Dev)
+I'm a passionate Web Developer and Software Engineer who believes in crafting elegant solutions to complex problems. My expertise lies in developing functional and user-friendly websites that not only meet technical requirements but also deliver exceptional user experiences.
+
+With a keen eye for detail and a commitment to clean code, I focus on:
+
+- Building responsive and intuitive web applications
+- Creating efficient and maintainable solutions
+- Delivering high-quality software that makes a difference
+
+Let's turn your ideas into reality! 💻✨
